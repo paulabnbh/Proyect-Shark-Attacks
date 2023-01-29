@@ -1,6 +1,6 @@
 # Shark Attacks data cleaning project
 
-
+![alt text](https://github.com/paulabnbh/Proyect-Shark-Attacks/blob/main/il_1588xN.2376836517_6p36.jpeg?raw=true)
 
 #### Antes de empezar con la limpieza de datos, para asegurar cierta coherencia en los títulos de las columnas hice lo siguiente:
 
