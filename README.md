@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/paulabnbh/Proyect-Shark-Attacks/blob/main/il_1588xN.2376836517_6p36.jpeg?raw=true)
 
-#### Antes de empezar con la limpieza de datos, para asegurar cierta coherencia en los títulos de las columnas hice lo siguiente:
+#### Antes de empezar con la limpieza de datos, para evitar errores y asegurar coherencia en los títulos de las columnas hice lo siguiente:
 
 - cambiar todas las letras a minúsculas
 - eliminar todos los posibles espacios a través del método strip()
